@@ -35,7 +35,7 @@
      width: 300px;
      margin-left: 500px;
      margin-right: auto;
-     color: rgb(209, 133, 33);
+     color: rgb(10, 9, 7);
      font-size: large;
      text-align:center;
      background-color: white;
@@ -43,8 +43,15 @@
      inline-size: 1;
     
 }
+ .small h1 span {
+    color: black;
+    font-size: larger;
+    font-weight: 800;
+    margin-bottom: 50px;
+ } 
     
     .box{
+        
        margin-right: 25px;
         width: 200px;
         height: 200px;
@@ -173,50 +180,66 @@
         width: 100px;
         height: 50px;
         background-color: palevioletred;
-        margin-left: 500px;
+        margin-left: 550px;
         
     }
   .box6{
+    
     height: 150px;
     width: 400px;
     font-size: 20px;
     margin-top: 30px;
-    margin-left: 400px;
+    margin-left: 420px;
+    margin-bottom: 50px;
   }
   .box7{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    color: rgb(20, 8, 8);
     height: 300px;
     width: 300px;
     display: inline-block;
     background-color: rgb(192, 187, 187);
     margin-left: 150px;
-    font-style: italic;
+    font-style: inherit;
     align-items: center;
+
   }
 
   .box8{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    color: rgb(20, 8, 8);
     height: 300px;
     width: 300px;
     display: inline-block;
     background-color: rgb(245, 227, 230);
-    margin-left: 20px;
+    margin-left: 25px;
     align-items: center;
-    font-style: italic;
+    font-style: inherit;
+    
   }
 
   .box9{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    color: rgb(20, 8, 8);
     height: 300px;
     width: 300px;
     display: inline-block;
     background-color: rgb(223, 200, 157);
     margin-left: 20px;
     align-items: center;
-    font-style: italic;
+    font-style: inherit;
   }
   .box10{
     margin-top: 20px;
     height: 100px;
     width: 1400px;
-    background-color: black;
+    background-color: rgb(17, 7, 7);
     font-style: italic;
     font-size: 25px;
     color: rgb(109, 5, 5);
