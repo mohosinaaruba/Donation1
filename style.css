@@ -29,9 +29,9 @@
     border-radius: 10px;
 }
 .small{
-     height: 150px;
-     width: 150px;
-     margin-left: auto;
+     height: 40px;
+     width: 300px;
+     margin-left: 450px;
      margin-right: auto;
      color: rgb(209, 133, 33);
      font-size: large;
@@ -167,6 +167,51 @@
     .box4{
         margin-bottom: var(--gap);
     }
+    .ud{
+        text-underline-position: below;
+        font-size: 40px;
+        color: pink;
+        margin-left: 450px;
+        margin-bottom: 20px;
+        border-bottom: 2px black;
+    }
+    .box5{
+        display: block;
+        width: 100px;
+        height: 50px;
+        background-color: palevioletred;
+        margin-left: 500px;
+        
+    }
+  .box6{
+    height: 150px;
+    width: 400px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 400px;
+  }
+  .box7{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    background-color: rgb(192, 187, 187);
+    margin-left: 150px;
+  }
 
+  .box8{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    background-color: rgb(245, 227, 230);
+    margin-left: 20px;
+  }
+
+  .box9{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    background-color: rgb(223, 200, 157);
+    margin-left: 20px;
+  }
 
 
