@@ -6,7 +6,7 @@
     width: 100vw;
     height: 100vh;
     position: relative;
-    background-image: url(images/9.jpg.);
+    background-image: url(images/3.jpg.);
     background-size: cover;
 }
 .overlay {
@@ -38,9 +38,6 @@
      color: rgb(10, 9, 7);
      font-size: large;
      text-align:center;
-     background-color: white;
-     margin-top: 50px;
-     inline-size: 1;
     
 }
  .small h1 span {
